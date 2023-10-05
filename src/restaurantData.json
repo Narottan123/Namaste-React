@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "resName": "Top Rated Restaurant 1",
+      "cuisine": "Biriyani North Indian",
+      "rating": 4.4,
+      "deliveryTime": "38 minutes",
+      "imageUrl": "https://www.peerspace.com/resources/wp-content/uploads/best-cleveland-food-photographers.jpg"
+    },
+    {
+        "id": 2,
+        "resName": "Top Rated Restaurant 1",
+        "cuisine": "Biriyani North Indian",
+        "rating": 3,
+        "deliveryTime": "38 minutes",
+        "imageUrl": "https://www.peerspace.com/resources/wp-content/uploads/best-cleveland-food-photographers.jpg"
+      },
+      {
+        "id": 3,
+        "resName": "Top Rated Restaurant 1",
+        "cuisine": "Biriyani North Indian",
+        "rating": 3,
+        "deliveryTime": "38 minutes",
+        "imageUrl": "https://www.peerspace.com/resources/wp-content/uploads/best-cleveland-food-photographers.jpg"
+      },
+      {
+        "id": 4,
+        "resName": "Top Rated Restaurant 1",
+        "cuisine": "Biriyani North Indian",
+        "rating": 3,
+        "deliveryTime": "38 minutes",
+        "imageUrl": "https://www.peerspace.com/resources/wp-content/uploads/best-cleveland-food-photographers.jpg"
+      },
+      {
+        "id": 5,
+        "resName": "Top Rated Restaurant 1",
+        "cuisine": "Biriyani North Indian",
+        "rating": 3,
+        "deliveryTime": "38 minutes",
+        "imageUrl": "https://www.peerspace.com/resources/wp-content/uploads/best-cleveland-food-photographers.jpg"
+      }
+    
+  ]
+  

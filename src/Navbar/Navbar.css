@@ -1,0 +1,14 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+}
+.nav-items>ul{
+    display: flex;
+    
+}
+.nav-items>ul>li{
+    padding: 10px;
+    margin: 10px;
+    list-style-type: none;
+}
